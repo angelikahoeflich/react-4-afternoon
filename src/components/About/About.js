@@ -40,7 +40,7 @@ export default class About extends Component {
                   </p>
                 </div>
               )}
-            />/>
+            />
 
           </Switch>
         </div>
